@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-"""A module that implements the bytecode found on the intranet
-0x06-python-classes page, task 10"""
+"""A module that works the same way as the given bytecode for
+task 10"""
 import math
 
 
