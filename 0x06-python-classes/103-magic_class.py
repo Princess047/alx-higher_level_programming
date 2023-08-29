@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-"""A module that works the same way as the given bytecode for
-task 10"""
+"""A module that works the same way as the bytecode given on the intranet
+for task 10"""
 import math
 
 
@@ -20,4 +20,4 @@ class MagicClass:
 
     def circumference(self):
         """Calculates the perimeter of the magic class"""
-        return 2 * math.pi * self.
+        return 2 * math.pi * self.__radius
